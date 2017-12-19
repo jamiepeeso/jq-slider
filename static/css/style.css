@@ -1,17 +1,18 @@
 body{
-	font-family:"Arial",sans-serif;
+	font-family: 'Signika', sans-serif;
 	font-size:14px;
-	color:#fff;
-	background:#333;
+	color:#F26968;
+	background:#323339;
 }
 
 a{
-	color:#fff;
+	color:#323339;
 	text-decoration: none;
 }
 
 h1{
 	text-align: center;
+	font-size: 300%;
 }
 
 .container{
@@ -27,7 +28,7 @@ h1{
 	overflow:hidden;
 	float:left;
 	padding:3px;
-	border:#666 solid 1px;
+	border:#6CBF84 solid 1px;
 }
 
 .slider-inner img{
